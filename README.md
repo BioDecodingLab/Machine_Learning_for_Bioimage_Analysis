@@ -24,7 +24,8 @@ One option is to use Google Colab, for which you would need a Google account, wh
 
 2. Upload the notebooks and the image data (tiffs and jpgs)
 
-3. Open this notebook: https://github.com/BioDecodingLab/Machine_Learning_for_Bioimage_Analysis/blob/main/My_first_python_notebook.ipynb [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BioDecodingLab/Machine_Learning_for_Bioimage_Analysis/blob/main/My_first_python_notebook.ipynb)
+3. Open this notebook: [My_first_python_notebook.ipynb](./code/My_first_python_notebook.ipynb)
+     [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BioDecodingLab/Machine_Learning_for_Bioimage_Analysis/blob/main/code/My_first_python_notebook.ipynb)
 
 
 	
