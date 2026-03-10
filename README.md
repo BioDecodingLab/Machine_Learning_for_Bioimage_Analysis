@@ -58,7 +58,7 @@ One option is to use Google Colab, for which you would need a Google account, wh
  
 ### 2. Noise Removal using Autoencoders
 - Short description
-	* [1_NoiseRemoval_Autoencoders.ipynb](./code/2_NoiseRemoval_Autoencoders.ipynb)
+	* [2_NoiseRemoval_Autoencoders.ipynb](./code/2_NoiseRemoval_Autoencoders.ipynb)
 	* GoogleColab:
 	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BioDecodingLab/Machine_Learning_for_Bioimage_Analysis/blob/main//code/2_NoiseRemoval_Autoencoders.ipynb)
 
