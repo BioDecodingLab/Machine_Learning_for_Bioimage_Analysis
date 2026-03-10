@@ -45,7 +45,7 @@ One option is to use Google Colab, for which you would need a Google account, wh
 
 	* [0_Intro_DigitalImages.ipynb](./code/0_Intro_DigitalImages.ipynb)
 	* GoogleColab:
- 		[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciencialatitud0/EPIC_4/blob/main/Day_2/Intro_DeepLearning_BioimageAnalysis/code/0_Intro_DigitalImages.ipynb)
+ 		[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BioDecodingLab/Machine_Learning_for_Bioimage_Analysis/0_Intro_DigitalImages.ipynb)
  
 ### 1. Noise Removal using Autoencoders
 - Short description
@@ -54,16 +54,9 @@ One option is to use Google Colab, for which you would need a Google account, wh
 	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciencialatitud0/EPIC_4/blob/main/Day_2/Intro_DeepLearning_BioimageAnalysis/code/1_NoiseRemoval_Autoencoders.ipynb)
 
 ### 2. Image Segmentation using UNet
-- Short description
-	* [2_ImageSegmentation_UNet.ipynb](./code/2_ImageSegmentation_UNet.ipynb)
-	* GoogleColab:
-	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciencialatitud0/EPIC_4/blob/main/Day_2/Intro_DeepLearning_BioimageAnalysis/code/2_ImageSegmentation_UNet.ipynb)
 
 ### 3. Image Classification using CNN
-- Short description
-	* [4_Retina_classification_using_CNN.ipynb](./code/4_Retina_classification_using_CNN.ipynb)
-	* GoogleColab:
-	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ciencialatitud0/EPIC_4/blob/main/Day_2/Intro_DeepLearning_BioimageAnalysis/code/4_Retina_classification_using_CNN.ipynb)
+
 ## Disclaimer
 - These materials have been adapted from the original versions: 
     - "Python BioImage Analysis Tutorial:" https://github.com/WhoIsJack/python-bioimage-analysis-tutorial
