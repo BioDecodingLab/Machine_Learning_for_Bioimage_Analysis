@@ -1,9 +1,9 @@
-# Introduction to Deep Learning for Bioimage Analysis
+# Introduction to Machine Learning for Bioimage Analysis
 
-This is an introduction to image analysis of biological images (i.e. microscopy images) using deep learning.
+This is an introduction to image analysis of biological images (i.e. microscopy images) using machine learning.
 
 Please create a local copy of the code and required files by cloning the repository:
-$ git clone https://github.com/ciencialatitud0/EPIC_4.git
+$ git clone [https://github.com/ciencialatitud0/EPIC_4.git](https://github.com/BioDecodingLab/Machine_Learning_for_Bioimage_Analysis.git)
 
 We will use python 3.x (as python2 is not supported anymore). Similarly, we will mainly use jupyter notebooks (.ipynb) for the courses taught at this course.
 
