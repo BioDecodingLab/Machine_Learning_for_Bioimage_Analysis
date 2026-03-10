@@ -30,11 +30,13 @@ One option is to use Google Colab, for which you would need a Google account, wh
 	
 #### OPTION 2: Anaconda/Miniconda:
 	- Create environment:
-	$ conda create -n py38 python=3.8 anaconda -y
+	$ conda create -n MLBioImage python=3.8 -y
 	- Activate the environment:
- 	$ conda activate py38	
+ 	$ conda activate MLBioImage	
  	- Install a few extra libraries:
- 	$ conda install scipy scikit-image tifffile
+ 	$ conda install -c conda-forge numpy scipy scikit-image tifffile matplotlib pandas scikit-learn tqdm jupyter notebook -y
+ 	- Install PyTorch
+	$ conda install pytorch torchvision torchaudio -c pytorch -y
  	- Open a jupyter notebook
  	$ jupyter notebook
 
