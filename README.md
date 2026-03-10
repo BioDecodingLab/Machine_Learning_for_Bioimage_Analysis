@@ -5,7 +5,7 @@ This is an introduction to image analysis of biological images (i.e. microscopy 
 Please create a local copy of the code and required files by cloning the repository:
 $ git clone [https://github.com/BioDecodingLab/Machine_Learning_for_Bioimage_Analysis.git](https://github.com/BioDecodingLab/Machine_Learning_for_Bioimage_Analysis.git)
 
-We will use python 3.x (as python2 is not supported anymore). Similarly, we will mainly use jupyter notebooks (.ipynb) for the courses taught at this course.
+We will use python 3.x. Similarly, we will mainly use jupyter notebooks (.ipynb) for the courses taught at this course.
 
 - Jupyter notebooks are very useful tools for learning programming because they provide a nice visual and interactive interface.
 - You can see the results of your code live, instead of waiting till your script (.py) finishes running in a terminal.
