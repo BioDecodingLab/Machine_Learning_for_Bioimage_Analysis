@@ -57,13 +57,17 @@ One option is to use Google Colab, for which you would need a Google account, wh
  
  
 ### 2. Noise Removal using Autoencoders
-- Short description
+- Step by step pipeline to remove noise from images using AutoEncoders
 	* [2_NoiseRemoval_Autoencoders.ipynb](./code/2_NoiseRemoval_Autoencoders.ipynb)
 	* GoogleColab:
-	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BioDecodingLab/Machine_Learning_for_Bioimage_Analysis/blob/main//code/2_NoiseRemoval_Autoencoders.ipynb)
+	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BioDecodingLab/Machine_Learning_for_Bioimage_Analysis/blob/main/code/2_NoiseRemoval_Autoencoders.ipynb)
 
 ### 3. Image Segmentation using UNet
-
+- Step by step pipeline to sgemnte cell borders using UNet
+	* [3_ImageSegmentation_UNet.ipynb](./code/3_ImageSegmentation_UNet.ipynb)
+	* GoogleColab:
+	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BioDecodingLab/Machine_Learning_for_Bioimage_Analysis/blob/main/code/3_ImageSegmentation_UNet.ipynb)
+	
 ### 4. Image Classification using CNN
 
 ## Disclaimer
