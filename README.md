@@ -69,6 +69,10 @@ One option is to use Google Colab, for which you would need a Google account, wh
 	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BioDecodingLab/Machine_Learning_for_Bioimage_Analysis/blob/main/code/3_ImageSegmentation_UNet.ipynb)
 	
 ### 4. Image Classification using CNN
+- Step by step pipeline to classify retinal images using CNN
+	* [3_ImageSegmentation_UNet.ipynb](./code/4_Retina_classification_using_CNN.ipynb)
+	* GoogleColab:
+	[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BioDecodingLab/Machine_Learning_for_Bioimage_Analysis/blob/main/code/4_Retina_classification_using_CNN.ipynb)
 
 ## Disclaimer
 - These materials have been adapted from the original versions: 
